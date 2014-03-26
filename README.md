@@ -1,4 +1,4 @@
-wiki
+Dotide Wiki
 ====
 
-Wiki of Dotide
+[See Details](https://github.com/dotide/wiki/wiki)
